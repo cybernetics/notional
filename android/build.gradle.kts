@@ -14,8 +14,8 @@ repositories {
 dependencies {
     implementation(project(":common"))
 
-    //implementation("androidx.compose.foundation:foundation:1.0.0-alpha12")
-    //implementation("androidx.compose.material:material:1.0.0-alpha12")
+    implementation("androidx.compose.foundation:foundation:1.0.0-alpha12")
+    implementation("androidx.compose.material:material:1.0.0-alpha12")
     implementation("androidx.core:core-ktx:1.3.2")
     implementation("androidx.appcompat:appcompat:1.2.0")
     implementation("androidx.lifecycle:lifecycle-common-java8:2.3.0")

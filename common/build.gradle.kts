@@ -54,7 +54,7 @@ kotlin {
         }
         val desktopMain by getting {
             dependencies {
-                implementation("com.arkivanov.decompose:extensions-compose-jetbrains:0.1.8")
+
             }
         }
         val desktopTest by getting
